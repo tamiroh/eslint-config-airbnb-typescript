@@ -1,17 +1,9 @@
 # eslint-config-airbnb-typescript
 
-[![Version](https://img.shields.io/npm/v/eslint-config-airbnb-typescript.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-airbnb-typescript?activeTab=versions) [![Downloads](https://img.shields.io/npm/dt/eslint-config-airbnb-typescript.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-airbnb-typescript) [![Last commit](https://img.shields.io/github/last-commit/iamturns/eslint-config-airbnb-typescript.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/graphs/commit-activity) [![Build](https://img.shields.io/circleci/project/github/iamturns/eslint-config-airbnb-typescript/master.svg?style=flat-square)](https://circleci.com/gh/iamturns/eslint-config-airbnb-typescript) [![License](https://img.shields.io/github/license/iamturns/eslint-config-airbnb-typescript.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/CONTRIBUTING.md) [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/CODE_OF_CONDUCT.md)
-
 Enhances Airbnb's ESLint config with TypeScript support
 
-> [!IMPORTANT]
-> ## This repo has been archived
->
-> After six years and reaching 2 million weekly downloads, I can no longer give this project the attention it deserves.
-> 
-> Please fork this repo and carry it forward! I'll happily share links to forks here.
->
-> A huge thank you to all contributors along the way ❤️
+> [!NOTE]
+> This is a fork of [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) maintained by [tamiroh](https://github.com/tamiroh).
 
 ---
 
@@ -143,16 +135,17 @@ If you would like to enable this rule, then:
 
 ## Additional Documentation
 
-- [CHANGELOG.md](CHANGELOG.md)
 - [DEVELOPING.md](DEVELOPING.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
 - [MAINTAINING.md](MAINTAINING.md)
 
 ## Credits
 
-Authored and maintained by Matt Turnbull ([iamturns.com](https://iamturns.com) / [@iamturns](https://twitter.com/iamturns))
+Maintained by tamiroh ([tamiroh](https://github.com/tamiroh))
 
-A big thank you to all [contributors](https://github.com/iamturns/eslint-config-airbnb-typescript/graphs/contributors)!
+Original plugin authored by Matt Turnbull ([iamturns.com](https://iamturns.com) / [@iamturns](https://twitter.com/iamturns))
+
+A big thank you to all [contributors](https://github.com/iamturns/eslint-config-airbnb-typescript/graphs/contributors) of the original repository!
 
 ## License
 
